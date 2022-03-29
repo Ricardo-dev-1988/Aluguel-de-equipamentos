@@ -1,0 +1,16 @@
+C:\Users\Ricardo\Desktop\aluguelDeEquipamento\aluguelDeEquipamento\aluguelDeEquipamento\bin\Debug\net5.0\aluguelDeEquipamento.exe
+C:\Users\Ricardo\Desktop\aluguelDeEquipamento\aluguelDeEquipamento\aluguelDeEquipamento\bin\Debug\net5.0\aluguelDeEquipamento.deps.json
+C:\Users\Ricardo\Desktop\aluguelDeEquipamento\aluguelDeEquipamento\aluguelDeEquipamento\bin\Debug\net5.0\aluguelDeEquipamento.runtimeconfig.json
+C:\Users\Ricardo\Desktop\aluguelDeEquipamento\aluguelDeEquipamento\aluguelDeEquipamento\bin\Debug\net5.0\aluguelDeEquipamento.runtimeconfig.dev.json
+C:\Users\Ricardo\Desktop\aluguelDeEquipamento\aluguelDeEquipamento\aluguelDeEquipamento\bin\Debug\net5.0\aluguelDeEquipamento.dll
+C:\Users\Ricardo\Desktop\aluguelDeEquipamento\aluguelDeEquipamento\aluguelDeEquipamento\bin\Debug\net5.0\ref\aluguelDeEquipamento.dll
+C:\Users\Ricardo\Desktop\aluguelDeEquipamento\aluguelDeEquipamento\aluguelDeEquipamento\bin\Debug\net5.0\aluguelDeEquipamento.pdb
+C:\Users\Ricardo\Desktop\aluguelDeEquipamento\aluguelDeEquipamento\aluguelDeEquipamento\obj\Debug\net5.0\aluguelDeEquipamento.csproj.AssemblyReference.cache
+C:\Users\Ricardo\Desktop\aluguelDeEquipamento\aluguelDeEquipamento\aluguelDeEquipamento\obj\Debug\net5.0\aluguelDeEquipamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\Desktop\aluguelDeEquipamento\aluguelDeEquipamento\aluguelDeEquipamento\obj\Debug\net5.0\aluguelDeEquipamento.AssemblyInfoInputs.cache
+C:\Users\Ricardo\Desktop\aluguelDeEquipamento\aluguelDeEquipamento\aluguelDeEquipamento\obj\Debug\net5.0\aluguelDeEquipamento.AssemblyInfo.cs
+C:\Users\Ricardo\Desktop\aluguelDeEquipamento\aluguelDeEquipamento\aluguelDeEquipamento\obj\Debug\net5.0\aluguelDeEquipamento.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\aluguelDeEquipamento\aluguelDeEquipamento\aluguelDeEquipamento\obj\Debug\net5.0\aluguelDeEquipamento.dll
+C:\Users\Ricardo\Desktop\aluguelDeEquipamento\aluguelDeEquipamento\aluguelDeEquipamento\obj\Debug\net5.0\ref\aluguelDeEquipamento.dll
+C:\Users\Ricardo\Desktop\aluguelDeEquipamento\aluguelDeEquipamento\aluguelDeEquipamento\obj\Debug\net5.0\aluguelDeEquipamento.pdb
+C:\Users\Ricardo\Desktop\aluguelDeEquipamento\aluguelDeEquipamento\aluguelDeEquipamento\obj\Debug\net5.0\aluguelDeEquipamento.genruntimeconfig.cache
